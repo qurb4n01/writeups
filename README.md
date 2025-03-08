@@ -24,3 +24,6 @@
 
 [Wgel CTF — TryHackMe](https://medium.com/@qurb4n01/wgel-ctf-tryhackme-5eb32323d92b)
 
+[LazyAdmin — TryHackMe]()
+
+[Metamorphosis — TryHackMe]()
