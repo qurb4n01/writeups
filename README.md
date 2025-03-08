@@ -11,7 +11,7 @@
 
 [Penetrating a system with Metasploit — Metasploiable2 (rpcbind,bindshell,rlogin,ftp)](https://medium.com/@qurb4n01/penetrating-a-system-with-metasploit-metasploiable2-rpcbind-bindshell-rlogin-ftp-2662b712d833)
 
-## Metasploit
+## CTFs
 [Cyborg — TryHackMe](https://medium.com/@qurb4n01/cyborg-tryhackme-075bc8907d7a)
 
 [Tony the Tiger — TryHackMe](https://medium.com/@qurb4n01/tony-the-tiger-tryhackme-7565641bf1ef)
